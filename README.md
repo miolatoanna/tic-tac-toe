@@ -4,7 +4,7 @@ This project is a further path in my Start2Impact journey.
 
 It consists in a famous game, tic-tac-toe.
 
-You can try it on Netlify <a href="">here</a>.
+You can try it on Netlify <a href="https://tictactoe-s2i-annamiolato.netlify.app/">here</a>.
 
 <br>
 
